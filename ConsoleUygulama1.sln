@@ -1,0 +1,427 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-ConsoleUygulamaGiris", "ConsoleUygulama1\1-ConsoleUygulamaGiris.csproj", "{F3356E58-5A36-425B-AD18-11ADE4524D38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-ReadReadline", "ReadReadline\2-ReadReadline.csproj", "{3FD50979-E59A-471C-963E-923F5E4E9527}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-YasHesaplama", "YasHesaplama\5-YasHesaplama.csproj", "{16F97416-DE7A-4D21-9889-04E69AD0835B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-AdSoyadOrnek", "AdSoyadOrnek\6-AdSoyadOrnek.csproj", "{50ED86A0-DFE1-427D-8DBE-C7C9269999F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-BasilanTusuBulma1", "5-BasilanTusuBulma1\7-BasilanTusuBulma1.csproj", "{467BF646-FC1C-4AA2-A0C2-03FDAE3CABA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-Sabitler_ve_Degiskenler", "2.1-Sabitler_ve_Degiskenler\3-Sabitler_ve_Degiskenler.csproj", "{99AC71BB-5F73-4B56-A70C-72249146F771}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-TipDonusumleri", "33TipDonusumleri\4-TipDonusumleri.csproj", "{BB0ACA59-4A06-4E31-827D-2FE56BD4FC37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8-Operatorler", "8-Operatorler\8-Operatorler.csproj", "{B8E84B4B-C9C8-4823-BEBB-005B7153E791}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-IfOrnekleri", "9-IfSayiTahmin\9-IfOrnekleri.csproj", "{E5E11A26-CD5C-4D44-80B0-31F4BFB14304}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A- HataKontrolu_2-HataTanimlama", "111-HataKontrolu\A- HataKontrolu_2-HataTanimlama.csproj", "{5939558B-8508-414F-BC07-75AC82AC0583}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B1-Donguler Giris", "A1-Donguler\B1-Donguler Giris.csproj", "{B026797C-FF31-4F44-BA3C-230D29A12B78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B2-Donguler_DoWhile", "Donguler_DoWhile\B2-Donguler_DoWhile.csproj", "{BB2E5321-56B9-4FB2-BC99-EC1917C77729}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B4-Donguler_ZarAtmaOyunu", "D3-Donguler_ZarAtmaOyunu\B4-Donguler_ZarAtmaOyunu.csproj", "{D88785BE-FDFF-4770-A8D2-B3DA4D4AD5CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A- HataKontrolu_1-HataYakalama", "A- HataKontrolu_1-HataYakalama\A- HataKontrolu_1-HataYakalama.csproj", "{667366BA-C3DE-4C74-9A3C-1D5333CC2B8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B3-Sayı_Tahmin_Oyunu", "SayiTahmin\B3-Sayı_Tahmin_Oyunu.csproj", "{03300F4F-2C5E-4CE4-A7FD-7090B25C209C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C1-Diziler_Giris", "C1-DizilerGiris\C1-Diziler_Giris.csproj", "{86D719F7-ADDE-4B01-99A6-4C413B4295A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C8-Diziler-AdamAsmaca", "C2-Diziler-AdamAsmaca\C8-Diziler-AdamAsmaca.csproj", "{85CB7449-A8B0-47E0-9A7C-7942E2C1ADB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C2-Diziler_CokBoyutluDiziler", "C2-Diziler_CokBoyutluDiziler\C2-Diziler_CokBoyutluDiziler.csproj", "{F29141F1-F387-4528-A34C-067F012B71D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C3-Diziler-DiziDegiskenMetodlari", "C4-Diziler-DiziDegiskenMetodlari\C3-Diziler-DiziDegiskenMetodlari.csproj", "{C9556C81-B25C-4995-A39A-0AB524561E6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C5-Diziler-Dizi_icinde_AramaYapmak2", "E-Extra_Bilgilendirme\C5-Diziler-Dizi_icinde_AramaYapmak2.csproj", "{15C6D8CB-DC04-4352-841B-256CE959CDEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C4-Diziler-Dizi_icinde_AramaYapmak", "C4-Diziler-Dizi_icinde_AramaYapmak\C4-Diziler-Dizi_icinde_AramaYapmak.csproj", "{62A56351-42C8-47B1-ADC7-634B1199188A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D1-Metodlar_Giris", "D-Metodlar_Giris\D1-Metodlar_Giris.csproj", "{A3708FF6-6850-465E-AD90-16ADD30132E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C7-Diziler-OgrenciYerlestirme", "C6-Diziler-OgrenciYerlestirme\C7-Diziler-OgrenciYerlestirme.csproj", "{D4F32BD9-7071-43DA-91BF-2C57029A8C80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C6-BasitDiziOrnekleri", "C-8-BasitDiziOrnekleri\C6-BasitDiziOrnekleri.csproj", "{046983E5-F012-4506-A4F2-EE349728D91C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D2-Metodlar_AlanHesaplama", "D2-Metodlar_AlanHesaplama\D2-Metodlar_AlanHesaplama.csproj", "{692BAA20-74B9-459F-A998-BEE6068B8881}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D3-Metodlar_ExtentionMetodlar", "D3-Metodlar_ExtentionMetodlar\D3-Metodlar_ExtentionMetodlar.csproj", "{CB9476EE-B647-4192-B1F4-EA71629D0284}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D4-Metodlar_RefveOut", "D4-Metodlar_RefveOut\D4-Metodlar_RefveOut.csproj", "{2A68D8AA-66A5-4634-9E2C-16FE8B4EE56E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E1-WFA-Giris", "E1-WFA-Giris\E1-WFA-Giris.csproj", "{C5EB5D5F-04DB-4AE7-BF6A-38B4ECA9877F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E2-WFA-FaturaOrnegi", "E2-WFA-FaturaOrnegi\E2-WFA-FaturaOrnegi.csproj", "{CE376AC2-9903-4E2C-A182-4E146278BF7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E3-WFA-Kontroller", "E3-WFA-Kontroller\E3-WFA-Kontroller.csproj", "{6E89D58F-3A4E-410A-AFE1-FECB550F5E69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E4-WFA-textBox_Editor", "..\..\..\..\Tum NOTLAR\C# Kitap Ornekler\CSharp6_Ornekler\Bolum10_FormlarveKontroller\textBox_Editor\E4-WFA-textBox_Editor.csproj", "{3115D954-6981-4258-8CEE-82B614F9B647}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E5-WFA-Buton_Basla_Bitir", "..\..\..\..\Tum NOTLAR\C# Kitap Ornekler\CSharp6_Ornekler\Bolum10_FormlarveKontroller\Buton_Basla_Bitir\E5-WFA-Buton_Basla_Bitir.csproj", "{28DA9821-FB8B-486E-9756-52F669AFFDB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E6-WFA-comboBox_Ekle_Sil", "..\..\..\..\Tum NOTLAR\C# Kitap Ornekler\CSharp6_Ornekler\Bolum10_FormlarveKontroller\comboBox_Ekle_Sil\E6-WFA-comboBox_Ekle_Sil.csproj", "{6BF335F7-5C13-4736-BF32-923F1574E115}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E7-WFA-listBox_Sırala", "..\..\..\..\Tum NOTLAR\C# Kitap Ornekler\CSharp6_Ornekler\Bolum10_FormlarveKontroller\listBox_Sırala\E7-WFA-listBox_Sırala.csproj", "{591177E3-FF55-4FF0-9605-09C451182A9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E9-WFA-CheckBox_Yazıtipi", "..\..\..\..\Tum NOTLAR\C# Kitap Ornekler\CSharp6_Ornekler\Bolum10_FormlarveKontroller\CheckBox_Yazıtipi\E9-WFA-CheckBox_Yazıtipi.csproj", "{A4AE6624-52EE-43FA-BF1E-5A45600E0955}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E8-WFA-listBox_Arama", "..\..\..\..\Tum NOTLAR\C# Kitap Ornekler\CSharp6_Ornekler\Bolum10_FormlarveKontroller\listBox_Arama\E8-WFA-listBox_Arama.csproj", "{9AEB49F2-576C-4E81-9E16-53224FDDE7F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "F1-RadioButton_Diller_foreach", "..\..\..\..\Tum NOTLAR\C# Kitap Ornekler\CSharp6_Ornekler\Bolum10_FormlarveKontroller\RadioButton_Diller_foreach\F1-RadioButton_Diller_foreach.csproj", "{B1E995C7-A2B6-4A3E-81EB-2FF4FA868181}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "F2-CheckedListBox_Secim", "..\..\..\..\Tum NOTLAR\C# Kitap Ornekler\CSharp6_Ornekler\Bolum10_FormlarveKontroller\CheckedListBox_Secim\F2-CheckedListBox_Secim.csproj", "{82673B54-B3FD-453E-9289-C68F1858D8F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "F3-SettingKullanimi", "F3-SettingKullanimi\F3-SettingKullanimi.csproj", "{1883D233-026B-4B0E-87B8-E086CB6AB7C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "G1-HazirFonksiyonlar", "F4-Koleksiyonlar\G1-HazirFonksiyonlar.csproj", "{AEC56060-912C-4CFC-9AE5-17DA288E1D93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H1-Koleksiyonlar - Non Generic", "H1-Koleksiyonlar\H1-Koleksiyonlar - Non Generic.csproj", "{DDBAC169-D62D-4449-BC96-D1E8726A5315}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E7-WFA-HepsiOrada", "E7-WFA-HepsiOrada\E7-WFA-HepsiOrada.csproj", "{02F53681-EF03-4472-985C-14A02DBBB2E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H2-Koleksiyonlar - Generic", "H2-Koleksiyonlar - Generic\H2-Koleksiyonlar - Generic.csproj", "{63DC0495-6255-4C14-8864-E96889368560}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "F4-TimerKontroluSaat", "..\..\..\..\Tum NOTLAR\C# Kitap Ornekler\CSharp6_Ornekler\Bolum10_FormlarveKontroller\timer_kontrolu_saat\F4-TimerKontroluSaat.csproj", "{492C2C3E-6172-4650-BF86-A963D122BCE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "F5-TimerKontroluScrollBar", "..\..\..\..\Tum NOTLAR\C# Kitap Ornekler\CSharp6_Ornekler\Bolum10_FormlarveKontroller\timer_kontrolu_scrollbar\F5-TimerKontroluScrollBar.csproj", "{76BC264F-417D-4807-982D-C149AF0896C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3356E58-5A36-425B-AD18-11ADE4524D38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3356E58-5A36-425B-AD18-11ADE4524D38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3356E58-5A36-425B-AD18-11ADE4524D38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3356E58-5A36-425B-AD18-11ADE4524D38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FD50979-E59A-471C-963E-923F5E4E9527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FD50979-E59A-471C-963E-923F5E4E9527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FD50979-E59A-471C-963E-923F5E4E9527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FD50979-E59A-471C-963E-923F5E4E9527}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16F97416-DE7A-4D21-9889-04E69AD0835B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16F97416-DE7A-4D21-9889-04E69AD0835B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16F97416-DE7A-4D21-9889-04E69AD0835B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16F97416-DE7A-4D21-9889-04E69AD0835B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50ED86A0-DFE1-427D-8DBE-C7C9269999F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50ED86A0-DFE1-427D-8DBE-C7C9269999F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50ED86A0-DFE1-427D-8DBE-C7C9269999F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50ED86A0-DFE1-427D-8DBE-C7C9269999F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{467BF646-FC1C-4AA2-A0C2-03FDAE3CABA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{467BF646-FC1C-4AA2-A0C2-03FDAE3CABA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{467BF646-FC1C-4AA2-A0C2-03FDAE3CABA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{467BF646-FC1C-4AA2-A0C2-03FDAE3CABA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99AC71BB-5F73-4B56-A70C-72249146F771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99AC71BB-5F73-4B56-A70C-72249146F771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99AC71BB-5F73-4B56-A70C-72249146F771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99AC71BB-5F73-4B56-A70C-72249146F771}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB0ACA59-4A06-4E31-827D-2FE56BD4FC37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB0ACA59-4A06-4E31-827D-2FE56BD4FC37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB0ACA59-4A06-4E31-827D-2FE56BD4FC37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB0ACA59-4A06-4E31-827D-2FE56BD4FC37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8E84B4B-C9C8-4823-BEBB-005B7153E791}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8E84B4B-C9C8-4823-BEBB-005B7153E791}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8E84B4B-C9C8-4823-BEBB-005B7153E791}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8E84B4B-C9C8-4823-BEBB-005B7153E791}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5E11A26-CD5C-4D44-80B0-31F4BFB14304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5E11A26-CD5C-4D44-80B0-31F4BFB14304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5E11A26-CD5C-4D44-80B0-31F4BFB14304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5E11A26-CD5C-4D44-80B0-31F4BFB14304}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5939558B-8508-414F-BC07-75AC82AC0583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5939558B-8508-414F-BC07-75AC82AC0583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5939558B-8508-414F-BC07-75AC82AC0583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5939558B-8508-414F-BC07-75AC82AC0583}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B026797C-FF31-4F44-BA3C-230D29A12B78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B026797C-FF31-4F44-BA3C-230D29A12B78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B026797C-FF31-4F44-BA3C-230D29A12B78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B026797C-FF31-4F44-BA3C-230D29A12B78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB2E5321-56B9-4FB2-BC99-EC1917C77729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB2E5321-56B9-4FB2-BC99-EC1917C77729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB2E5321-56B9-4FB2-BC99-EC1917C77729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB2E5321-56B9-4FB2-BC99-EC1917C77729}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D88785BE-FDFF-4770-A8D2-B3DA4D4AD5CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D88785BE-FDFF-4770-A8D2-B3DA4D4AD5CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D88785BE-FDFF-4770-A8D2-B3DA4D4AD5CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D88785BE-FDFF-4770-A8D2-B3DA4D4AD5CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{667366BA-C3DE-4C74-9A3C-1D5333CC2B8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{667366BA-C3DE-4C74-9A3C-1D5333CC2B8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{667366BA-C3DE-4C74-9A3C-1D5333CC2B8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{667366BA-C3DE-4C74-9A3C-1D5333CC2B8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03300F4F-2C5E-4CE4-A7FD-7090B25C209C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03300F4F-2C5E-4CE4-A7FD-7090B25C209C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03300F4F-2C5E-4CE4-A7FD-7090B25C209C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03300F4F-2C5E-4CE4-A7FD-7090B25C209C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86D719F7-ADDE-4B01-99A6-4C413B4295A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86D719F7-ADDE-4B01-99A6-4C413B4295A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86D719F7-ADDE-4B01-99A6-4C413B4295A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86D719F7-ADDE-4B01-99A6-4C413B4295A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85CB7449-A8B0-47E0-9A7C-7942E2C1ADB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85CB7449-A8B0-47E0-9A7C-7942E2C1ADB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85CB7449-A8B0-47E0-9A7C-7942E2C1ADB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85CB7449-A8B0-47E0-9A7C-7942E2C1ADB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F29141F1-F387-4528-A34C-067F012B71D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F29141F1-F387-4528-A34C-067F012B71D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F29141F1-F387-4528-A34C-067F012B71D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F29141F1-F387-4528-A34C-067F012B71D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9556C81-B25C-4995-A39A-0AB524561E6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9556C81-B25C-4995-A39A-0AB524561E6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9556C81-B25C-4995-A39A-0AB524561E6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9556C81-B25C-4995-A39A-0AB524561E6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15C6D8CB-DC04-4352-841B-256CE959CDEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15C6D8CB-DC04-4352-841B-256CE959CDEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15C6D8CB-DC04-4352-841B-256CE959CDEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15C6D8CB-DC04-4352-841B-256CE959CDEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62A56351-42C8-47B1-ADC7-634B1199188A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62A56351-42C8-47B1-ADC7-634B1199188A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62A56351-42C8-47B1-ADC7-634B1199188A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62A56351-42C8-47B1-ADC7-634B1199188A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3708FF6-6850-465E-AD90-16ADD30132E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3708FF6-6850-465E-AD90-16ADD30132E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3708FF6-6850-465E-AD90-16ADD30132E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3708FF6-6850-465E-AD90-16ADD30132E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4F32BD9-7071-43DA-91BF-2C57029A8C80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4F32BD9-7071-43DA-91BF-2C57029A8C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4F32BD9-7071-43DA-91BF-2C57029A8C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4F32BD9-7071-43DA-91BF-2C57029A8C80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{046983E5-F012-4506-A4F2-EE349728D91C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{046983E5-F012-4506-A4F2-EE349728D91C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{046983E5-F012-4506-A4F2-EE349728D91C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{046983E5-F012-4506-A4F2-EE349728D91C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{692BAA20-74B9-459F-A998-BEE6068B8881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{692BAA20-74B9-459F-A998-BEE6068B8881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{692BAA20-74B9-459F-A998-BEE6068B8881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{692BAA20-74B9-459F-A998-BEE6068B8881}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB9476EE-B647-4192-B1F4-EA71629D0284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB9476EE-B647-4192-B1F4-EA71629D0284}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB9476EE-B647-4192-B1F4-EA71629D0284}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB9476EE-B647-4192-B1F4-EA71629D0284}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A68D8AA-66A5-4634-9E2C-16FE8B4EE56E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A68D8AA-66A5-4634-9E2C-16FE8B4EE56E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A68D8AA-66A5-4634-9E2C-16FE8B4EE56E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A68D8AA-66A5-4634-9E2C-16FE8B4EE56E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5EB5D5F-04DB-4AE7-BF6A-38B4ECA9877F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5EB5D5F-04DB-4AE7-BF6A-38B4ECA9877F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5EB5D5F-04DB-4AE7-BF6A-38B4ECA9877F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5EB5D5F-04DB-4AE7-BF6A-38B4ECA9877F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE376AC2-9903-4E2C-A182-4E146278BF7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE376AC2-9903-4E2C-A182-4E146278BF7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE376AC2-9903-4E2C-A182-4E146278BF7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE376AC2-9903-4E2C-A182-4E146278BF7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E89D58F-3A4E-410A-AFE1-FECB550F5E69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E89D58F-3A4E-410A-AFE1-FECB550F5E69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E89D58F-3A4E-410A-AFE1-FECB550F5E69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E89D58F-3A4E-410A-AFE1-FECB550F5E69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3115D954-6981-4258-8CEE-82B614F9B647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3115D954-6981-4258-8CEE-82B614F9B647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3115D954-6981-4258-8CEE-82B614F9B647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3115D954-6981-4258-8CEE-82B614F9B647}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28DA9821-FB8B-486E-9756-52F669AFFDB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28DA9821-FB8B-486E-9756-52F669AFFDB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28DA9821-FB8B-486E-9756-52F669AFFDB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28DA9821-FB8B-486E-9756-52F669AFFDB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BF335F7-5C13-4736-BF32-923F1574E115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BF335F7-5C13-4736-BF32-923F1574E115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BF335F7-5C13-4736-BF32-923F1574E115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BF335F7-5C13-4736-BF32-923F1574E115}.Release|Any CPU.Build.0 = Release|Any CPU
+		{591177E3-FF55-4FF0-9605-09C451182A9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{591177E3-FF55-4FF0-9605-09C451182A9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{591177E3-FF55-4FF0-9605-09C451182A9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{591177E3-FF55-4FF0-9605-09C451182A9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4AE6624-52EE-43FA-BF1E-5A45600E0955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4AE6624-52EE-43FA-BF1E-5A45600E0955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4AE6624-52EE-43FA-BF1E-5A45600E0955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4AE6624-52EE-43FA-BF1E-5A45600E0955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AEB49F2-576C-4E81-9E16-53224FDDE7F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AEB49F2-576C-4E81-9E16-53224FDDE7F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AEB49F2-576C-4E81-9E16-53224FDDE7F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AEB49F2-576C-4E81-9E16-53224FDDE7F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1E995C7-A2B6-4A3E-81EB-2FF4FA868181}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1E995C7-A2B6-4A3E-81EB-2FF4FA868181}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1E995C7-A2B6-4A3E-81EB-2FF4FA868181}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1E995C7-A2B6-4A3E-81EB-2FF4FA868181}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82673B54-B3FD-453E-9289-C68F1858D8F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82673B54-B3FD-453E-9289-C68F1858D8F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82673B54-B3FD-453E-9289-C68F1858D8F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82673B54-B3FD-453E-9289-C68F1858D8F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1883D233-026B-4B0E-87B8-E086CB6AB7C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1883D233-026B-4B0E-87B8-E086CB6AB7C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1883D233-026B-4B0E-87B8-E086CB6AB7C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1883D233-026B-4B0E-87B8-E086CB6AB7C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEC56060-912C-4CFC-9AE5-17DA288E1D93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEC56060-912C-4CFC-9AE5-17DA288E1D93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEC56060-912C-4CFC-9AE5-17DA288E1D93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEC56060-912C-4CFC-9AE5-17DA288E1D93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDBAC169-D62D-4449-BC96-D1E8726A5315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDBAC169-D62D-4449-BC96-D1E8726A5315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDBAC169-D62D-4449-BC96-D1E8726A5315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDBAC169-D62D-4449-BC96-D1E8726A5315}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02F53681-EF03-4472-985C-14A02DBBB2E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02F53681-EF03-4472-985C-14A02DBBB2E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02F53681-EF03-4472-985C-14A02DBBB2E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02F53681-EF03-4472-985C-14A02DBBB2E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63DC0495-6255-4C14-8864-E96889368560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63DC0495-6255-4C14-8864-E96889368560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63DC0495-6255-4C14-8864-E96889368560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63DC0495-6255-4C14-8864-E96889368560}.Release|Any CPU.Build.0 = Release|Any CPU
+		{492C2C3E-6172-4650-BF86-A963D122BCE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{492C2C3E-6172-4650-BF86-A963D122BCE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{492C2C3E-6172-4650-BF86-A963D122BCE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{492C2C3E-6172-4650-BF86-A963D122BCE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76BC264F-417D-4807-982D-C149AF0896C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76BC264F-417D-4807-982D-C149AF0896C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76BC264F-417D-4807-982D-C149AF0896C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76BC264F-417D-4807-982D-C149AF0896C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 46
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://ortakprojem.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = 2.1-Sabitler_ve_Degiskenler\\3-Sabitler_ve_Degiskenler.csproj
+		SccProjectName1 = 2.1-Sabitler_ve_Degiskenler
+		SccLocalPath1 = 2.1-Sabitler_ve_Degiskenler
+		SccProjectUniqueName2 = 33TipDonusumleri\\4-TipDonusumleri.csproj
+		SccProjectName2 = 33TipDonusumleri
+		SccLocalPath2 = 33TipDonusumleri
+		SccProjectUniqueName3 = 5-BasilanTusuBulma1\\7-BasilanTusuBulma1.csproj
+		SccProjectName3 = 5-BasilanTusuBulma1
+		SccLocalPath3 = 5-BasilanTusuBulma1
+		SccProjectUniqueName4 = AdSoyadOrnek\\6-AdSoyadOrnek.csproj
+		SccProjectName4 = AdSoyadOrnek
+		SccLocalPath4 = AdSoyadOrnek
+		SccProjectUniqueName5 = ConsoleUygulama1\\1-ConsoleUygulamaGiris.csproj
+		SccProjectName5 = ConsoleUygulama1
+		SccLocalPath5 = ConsoleUygulama1
+		SccProjectUniqueName6 = ReadReadline\\2-ReadReadline.csproj
+		SccProjectName6 = ReadReadline
+		SccLocalPath6 = ReadReadline
+		SccProjectUniqueName7 = YasHesaplama\\5-YasHesaplama.csproj
+		SccProjectName7 = YasHesaplama
+		SccLocalPath7 = YasHesaplama
+		SccProjectUniqueName8 = 8-Operatorler\\8-Operatorler.csproj
+		SccProjectName8 = 8-Operatorler
+		SccLocalPath8 = 8-Operatorler
+		SccProjectUniqueName9 = 9-IfSayiTahmin\\9-IfOrnekleri.csproj
+		SccProjectName9 = 9-IfSayiTahmin
+		SccLocalPath9 = 9-IfSayiTahmin
+		SccProjectUniqueName10 = 111-HataKontrolu\\A-\u0020HataKontrolu_2-HataTanimlama.csproj
+		SccProjectName10 = 111-HataKontrolu
+		SccLocalPath10 = 111-HataKontrolu
+		SccProjectUniqueName11 = A-\u0020HataKontrolu_1-HataYakalama\\A-\u0020HataKontrolu_1-HataYakalama.csproj
+		SccProjectName11 = A-\u0020HataKontrolu_1-HataYakalama
+		SccLocalPath11 = A-\u0020HataKontrolu_1-HataYakalama
+		SccProjectUniqueName12 = A1-Donguler\\B1-Donguler\u0020Giris.csproj
+		SccProjectName12 = A1-Donguler
+		SccLocalPath12 = A1-Donguler
+		SccProjectUniqueName13 = Donguler_DoWhile\\B2-Donguler_DoWhile.csproj
+		SccProjectName13 = Donguler_DoWhile
+		SccLocalPath13 = Donguler_DoWhile
+		SccProjectUniqueName14 = SayiTahmin\\B3-Sayı_Tahmin_Oyunu.csproj
+		SccProjectName14 = SayiTahmin
+		SccLocalPath14 = SayiTahmin
+		SccProjectUniqueName15 = D3-Donguler_ZarAtmaOyunu\\B4-Donguler_ZarAtmaOyunu.csproj
+		SccProjectName15 = D3-Donguler_ZarAtmaOyunu
+		SccLocalPath15 = D3-Donguler_ZarAtmaOyunu
+		SccProjectUniqueName16 = C1-DizilerGiris\\C1-Diziler_Giris.csproj
+		SccProjectName16 = C1-DizilerGiris
+		SccLocalPath16 = C1-DizilerGiris
+		SccProjectUniqueName17 = C2-Diziler_CokBoyutluDiziler\\C2-Diziler_CokBoyutluDiziler.csproj
+		SccProjectName17 = C2-Diziler_CokBoyutluDiziler
+		SccLocalPath17 = C2-Diziler_CokBoyutluDiziler
+		SccProjectUniqueName18 = C6-Diziler-OgrenciYerlestirme\\C7-Diziler-OgrenciYerlestirme.csproj
+		SccProjectName18 = C6-Diziler-OgrenciYerlestirme
+		SccLocalPath18 = C6-Diziler-OgrenciYerlestirme
+		SccProjectUniqueName19 = C4-Diziler-DiziDegiskenMetodlari\\C3-Diziler-DiziDegiskenMetodlari.csproj
+		SccProjectName19 = C4-Diziler-DiziDegiskenMetodlari
+		SccLocalPath19 = C4-Diziler-DiziDegiskenMetodlari
+		SccProjectUniqueName20 = C4-Diziler-Dizi_icinde_AramaYapmak\\C4-Diziler-Dizi_icinde_AramaYapmak.csproj
+		SccProjectName20 = C4-Diziler-Dizi_icinde_AramaYapmak
+		SccLocalPath20 = C4-Diziler-Dizi_icinde_AramaYapmak
+		SccProjectUniqueName21 = E-Extra_Bilgilendirme\\C5-Diziler-Dizi_icinde_AramaYapmak2.csproj
+		SccProjectName21 = E-Extra_Bilgilendirme
+		SccLocalPath21 = E-Extra_Bilgilendirme
+		SccProjectUniqueName22 = C-8-BasitDiziOrnekleri\\C6-BasitDiziOrnekleri.csproj
+		SccProjectName22 = C-8-BasitDiziOrnekleri
+		SccLocalPath22 = C-8-BasitDiziOrnekleri
+		SccProjectUniqueName23 = C2-Diziler-AdamAsmaca\\C8-Diziler-AdamAsmaca.csproj
+		SccProjectName23 = C2-Diziler-AdamAsmaca
+		SccLocalPath23 = C2-Diziler-AdamAsmaca
+		SccProjectUniqueName24 = D-Metodlar_Giris\\D1-Metodlar_Giris.csproj
+		SccProjectName24 = D-Metodlar_Giris
+		SccLocalPath24 = D-Metodlar_Giris
+		SccProjectUniqueName25 = D2-Metodlar_AlanHesaplama\\D2-Metodlar_AlanHesaplama.csproj
+		SccProjectName25 = D2-Metodlar_AlanHesaplama
+		SccLocalPath25 = D2-Metodlar_AlanHesaplama
+		SccProjectUniqueName26 = D3-Metodlar_ExtentionMetodlar\\D3-Metodlar_ExtentionMetodlar.csproj
+		SccProjectName26 = D3-Metodlar_ExtentionMetodlar
+		SccLocalPath26 = D3-Metodlar_ExtentionMetodlar
+		SccProjectUniqueName27 = D4-Metodlar_RefveOut\\D4-Metodlar_RefveOut.csproj
+		SccProjectName27 = D4-Metodlar_RefveOut
+		SccLocalPath27 = D4-Metodlar_RefveOut
+		SccProjectUniqueName28 = E1-WFA-Giris\\E1-WFA-Giris.csproj
+		SccProjectName28 = E1-WFA-Giris
+		SccLocalPath28 = E1-WFA-Giris
+		SccProjectUniqueName29 = E2-WFA-FaturaOrnegi\\E2-WFA-FaturaOrnegi.csproj
+		SccProjectName29 = E2-WFA-FaturaOrnegi
+		SccLocalPath29 = E2-WFA-FaturaOrnegi
+		SccProjectUniqueName30 = E3-WFA-Kontroller\\E3-WFA-Kontroller.csproj
+		SccProjectName30 = E3-WFA-Kontroller
+		SccLocalPath30 = E3-WFA-Kontroller
+		SccProjectUniqueName31 = ..\\..\\..\\..\\Tum\u0020NOTLAR\\C#\u0020Kitap\u0020Ornekler\\CSharp6_Ornekler\\Bolum10_FormlarveKontroller\\textBox_Editor\\E4-WFA-textBox_Editor.csproj
+		SccProjectName31 = textBox_Editor
+		SccLocalPath31 = ..\\..\\..\\..\\Tum\u0020NOTLAR\\C#\u0020Kitap\u0020Ornekler\\CSharp6_Ornekler\\Bolum10_FormlarveKontroller\\textBox_Editor
+		SccProjectUniqueName32 = ..\\..\\..\\..\\Tum\u0020NOTLAR\\C#\u0020Kitap\u0020Ornekler\\CSharp6_Ornekler\\Bolum10_FormlarveKontroller\\Buton_Basla_Bitir\\E5-WFA-Buton_Basla_Bitir.csproj
+		SccProjectName32 = Buton_Basla_Bitir
+		SccLocalPath32 = ..\\..\\..\\..\\Tum\u0020NOTLAR\\C#\u0020Kitap\u0020Ornekler\\CSharp6_Ornekler\\Bolum10_FormlarveKontroller\\Buton_Basla_Bitir
+		SccProjectUniqueName33 = ..\\..\\..\\..\\Tum\u0020NOTLAR\\C#\u0020Kitap\u0020Ornekler\\CSharp6_Ornekler\\Bolum10_FormlarveKontroller\\comboBox_Ekle_Sil\\E6-WFA-comboBox_Ekle_Sil.csproj
+		SccProjectName33 = comboBox_Ekle_Sil
+		SccLocalPath33 = ..\\..\\..\\..\\Tum\u0020NOTLAR\\C#\u0020Kitap\u0020Ornekler\\CSharp6_Ornekler\\Bolum10_FormlarveKontroller\\comboBox_Ekle_Sil
+		SccProjectUniqueName34 = ..\\..\\..\\..\\Tum\u0020NOTLAR\\C#\u0020Kitap\u0020Ornekler\\CSharp6_Ornekler\\Bolum10_FormlarveKontroller\\listBox_Sırala\\E7-WFA-listBox_Sırala.csproj
+		SccProjectName34 = listBox_Sırala
+		SccLocalPath34 = ..\\..\\..\\..\\Tum\u0020NOTLAR\\C#\u0020Kitap\u0020Ornekler\\CSharp6_Ornekler\\Bolum10_FormlarveKontroller\\listBox_Sırala
+		SccProjectUniqueName35 = ..\\..\\..\\..\\Tum\u0020NOTLAR\\C#\u0020Kitap\u0020Ornekler\\CSharp6_Ornekler\\Bolum10_FormlarveKontroller\\CheckBox_Yazıtipi\\E9-WFA-CheckBox_Yazıtipi.csproj
+		SccProjectName35 = CheckBox_Yazıtipi
+		SccLocalPath35 = ..\\..\\..\\..\\Tum\u0020NOTLAR\\C#\u0020Kitap\u0020Ornekler\\CSharp6_Ornekler\\Bolum10_FormlarveKontroller\\CheckBox_Yazıtipi
+		SccProjectUniqueName36 = ..\\..\\..\\..\\Tum\u0020NOTLAR\\C#\u0020Kitap\u0020Ornekler\\CSharp6_Ornekler\\Bolum10_FormlarveKontroller\\listBox_Arama\\E8-WFA-listBox_Arama.csproj
+		SccProjectName36 = listBox_Arama
+		SccLocalPath36 = ..\\..\\..\\..\\Tum\u0020NOTLAR\\C#\u0020Kitap\u0020Ornekler\\CSharp6_Ornekler\\Bolum10_FormlarveKontroller\\listBox_Arama
+		SccProjectUniqueName37 = ..\\..\\..\\..\\Tum\u0020NOTLAR\\C#\u0020Kitap\u0020Ornekler\\CSharp6_Ornekler\\Bolum10_FormlarveKontroller\\RadioButton_Diller_foreach\\F1-RadioButton_Diller_foreach.csproj
+		SccProjectName37 = E10-WFA-RadioButton_Diller_foreach
+		SccLocalPath37 = ..\\..\\..\\..\\Tum\u0020NOTLAR\\C#\u0020Kitap\u0020Ornekler\\CSharp6_Ornekler\\Bolum10_FormlarveKontroller\\RadioButton_Diller_foreach
+		SccProjectUniqueName38 = ..\\..\\..\\..\\Tum\u0020NOTLAR\\C#\u0020Kitap\u0020Ornekler\\CSharp6_Ornekler\\Bolum10_FormlarveKontroller\\CheckedListBox_Secim\\F2-CheckedListBox_Secim.csproj
+		SccProjectName38 = CheckedListBox_Secim
+		SccLocalPath38 = ..\\..\\..\\..\\Tum\u0020NOTLAR\\C#\u0020Kitap\u0020Ornekler\\CSharp6_Ornekler\\Bolum10_FormlarveKontroller\\CheckedListBox_Secim
+		SccProjectUniqueName39 = F3-SettingKullanimi\\F3-SettingKullanimi.csproj
+		SccProjectName39 = F3-SettingKullanimi
+		SccLocalPath39 = F3-SettingKullanimi
+		SccProjectUniqueName40 = F4-Koleksiyonlar\\G1-HazirFonksiyonlar.csproj
+		SccProjectName40 = F4-Koleksiyonlar
+		SccLocalPath40 = F4-Koleksiyonlar
+		SccProjectUniqueName41 = E7-WFA-HepsiOrada\\E7-WFA-HepsiOrada.csproj
+		SccProjectName41 = E7-WFA-HepsiOrada
+		SccLocalPath41 = E7-WFA-HepsiOrada
+		SccProjectUniqueName42 = H1-Koleksiyonlar\\H1-Koleksiyonlar\u0020-\u0020Non\u0020Generic.csproj
+		SccProjectName42 = H1-Koleksiyonlar
+		SccLocalPath42 = H1-Koleksiyonlar
+		SccProjectUniqueName43 = H2-Koleksiyonlar\u0020-\u0020Generic\\H2-Koleksiyonlar\u0020-\u0020Generic.csproj
+		SccProjectName43 = H2-Koleksiyonlar\u0020-\u0020Generic
+		SccLocalPath43 = H2-Koleksiyonlar\u0020-\u0020Generic
+		SccProjectUniqueName44 = ..\\..\\..\\..\\Tum\u0020NOTLAR\\C#\u0020Kitap\u0020Ornekler\\CSharp6_Ornekler\\Bolum10_FormlarveKontroller\\timer_kontrolu_saat\\F4-TimerKontroluSaat.csproj
+		SccProjectName44 = timer_kontrolu_saat
+		SccLocalPath44 = ..\\..\\..\\..\\Tum\u0020NOTLAR\\C#\u0020Kitap\u0020Ornekler\\CSharp6_Ornekler\\Bolum10_FormlarveKontroller\\timer_kontrolu_saat
+		SccProjectUniqueName45 = ..\\..\\..\\..\\Tum\u0020NOTLAR\\C#\u0020Kitap\u0020Ornekler\\CSharp6_Ornekler\\Bolum10_FormlarveKontroller\\timer_kontrolu_scrollbar\\F5-TimerKontroluScrollBar.csproj
+		SccProjectName45 = timer_kontrolu_scrollbar
+		SccLocalPath45 = ..\\..\\..\\..\\Tum\u0020NOTLAR\\C#\u0020Kitap\u0020Ornekler\\CSharp6_Ornekler\\Bolum10_FormlarveKontroller\\timer_kontrolu_scrollbar
+	EndGlobalSection
+EndGlobal
