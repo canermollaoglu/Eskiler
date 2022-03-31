@@ -17,7 +17,7 @@ namespace ConsoleUygulama1
             //Write         : kendisine gönderilen değeri aynı satırda yazar.
             //Writeline    : gönderilen değeri bir alt satırdan itibaren yazdırmak için kullanılır.
 
-            Console.WriteLine("İlk uygulama");
+            Console.WriteLine("İlk uygulama denemesini yapıyoruz");
             Console.Write("İlk ders");
             Console.WriteLine("Caner" + "\t" + "Mollaoğlu");
             //1-burada escape karakterlerinin listesi gösterilecek.
